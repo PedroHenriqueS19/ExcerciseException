@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\bin\Debug\net8.0\ExceptionExercise.exe
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\bin\Debug\net8.0\ExceptionExercise.deps.json
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\bin\Debug\net8.0\ExceptionExercise.runtimeconfig.json
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\bin\Debug\net8.0\ExceptionExercise.dll
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\bin\Debug\net8.0\ExceptionExercise.pdb
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.dll
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net8.0\refint\ExceptionExercise.dll
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.pdb
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\ExceptionExercise\ExceptionExercise\obj\Debug\net8.0\ref\ExceptionExercise.dll
